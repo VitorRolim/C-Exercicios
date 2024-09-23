@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\bin\Debug\net8.0\EstoqueLoja.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\bin\Debug\net8.0\EstoqueLoja.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\bin\Debug\net8.0\EstoqueLoja.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\bin\Debug\net8.0\EstoqueLoja.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\bin\Debug\net8.0\EstoqueLoja.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\refint\EstoqueLoja.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\EstoqueLoja.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\EstoqueLoja\EstoqueLoja\obj\Debug\net8.0\ref\EstoqueLoja.dll
