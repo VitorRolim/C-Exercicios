@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\bin\Debug\net8.0\NotaAluno.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\bin\Debug\net8.0\NotaAluno.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\bin\Debug\net8.0\NotaAluno.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\bin\Debug\net8.0\NotaAluno.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\bin\Debug\net8.0\NotaAluno.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\refint\NotaAluno.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\NotaAluno.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\DicionarioAluno\NotaAluno\obj\Debug\net8.0\ref\NotaAluno.dll
