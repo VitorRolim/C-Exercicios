@@ -12,3 +12,4 @@ C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Proje
 C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\ContaBancoClasse\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
 C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\ContaBancoClasse\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
 C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\ContaBancoClasse\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\Exercicios\ContaBancoClasse\ContaBancaria\obj\Debug\net8.0\ContaBancaria.sourcelink.json

@@ -1,6 +1,4 @@
 ﻿
-ContaBancaria conta = new ContaBancaria();
-Titular titular1 = new Titular();
 
 Console.WriteLine("Digite o nome do titular: ");
 string titular = Console.ReadLine();
@@ -8,6 +6,7 @@ Console.WriteLine("Digite a idade do titular: ");
 int idade = int.Parse(Console.ReadLine());
 Console.WriteLine("Digite o genero do titular: ");
 string genero = Console.ReadLine();
+Titular titular1 = new Titular(titular, idade, genero);
 titular1.Nome = titular;
 titular1.Idade = idade;
 titular1.Genero = genero;
@@ -22,11 +21,12 @@ double saldo = double.Parse(Console.ReadLine());
 Console.WriteLine("Digite o limite da conta: ");
 double limite = double.Parse(Console.ReadLine());
 
-conta.NumConta = numConta;
+ContaBancaria conta = new ContaBancaria(titular1,numConta,agencia,saldo,limite);
+/*conta.NumConta = numConta;
 conta.Agencia = agencia;
 conta.Saldo = saldo;
 conta.Limite = limite;
-conta.Titular = titular1;// CONECTAR DUAS CLASSES
+conta.Titular = titular1;*/// CONECTAR DUAS CLASSES
 
 conta.ExibirContaBancaria();
 

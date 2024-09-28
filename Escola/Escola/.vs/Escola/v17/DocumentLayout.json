@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\\u00C1rea de trabalho\\.CursoC#-alura\\Projetos\\Exercicios\\Escola\\Escola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\\u00E1rea de trabalho\\.cursoc#-alura\\projetos\\exercicios\\escola\\escola\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|solutionrelative:disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\\u00E1rea de trabalho\\.cursoc#-alura\\projetos\\exercicios\\escola\\escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\\u00E1rea de trabalho\\.cursoc#-alura\\projetos\\exercicios\\escola\\escola\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\\u00E1rea de trabalho\\.cursoc#-alura\\projetos\\exercicios\\escola\\escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\\u00E1rea de trabalho\\.cursoc#-alura\\projetos\\exercicios\\escola\\escola\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799348A6-A9A5-4B91-811B-48B21CB93BCA}|Escola.csproj|solutionrelative:disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Disciplina.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\\u00C1rea de trabalho\\.CursoC#-alura\\Projetos\\Exercicios\\Escola\\Escola\\Disciplina.cs",
               "RelativeDocumentMoniker": "Disciplina.cs",
               "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\\u00C1rea de trabalho\\.CursoC#-alura\\Projetos\\Exercicios\\Escola\\Escola\\Disciplina.cs",
               "RelativeToolTip": "Disciplina.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T02:29:53.687Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "Professor.cs",
               "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\\u00C1rea de trabalho\\.CursoC#-alura\\Projetos\\Exercicios\\Escola\\Escola\\Professor.cs",
               "RelativeToolTip": "Professor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T02:29:32.665Z"
+              "WhenOpened": "2024-09-23T02:29:32.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,13 +62,14 @@
               "RelativeDocumentMoniker": "Aluno.cs",
               "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\\u00C1rea de trabalho\\.CursoC#-alura\\Projetos\\Exercicios\\Escola\\Escola\\Aluno.cs",
               "RelativeToolTip": "Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T02:28:59.175Z"
+              "WhenOpened": "2024-09-23T02:28:59.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\\u00C1rea de trabalho\\.CursoC#-alura\\Projetos\\Exercicios\\Escola\\Escola\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -75,7 +77,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T02:28:49.41Z"
+              "WhenOpened": "2024-09-23T02:28:49.41Z",
+              "EditorCaption": ""
             }
           ]
         }
